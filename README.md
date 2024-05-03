@@ -17,9 +17,9 @@
 
 <br>
 <!-- border-radius is not working -->
-<!-- <div align="center">
+<div align="center">
   <img src="assets/wallpaper.png" alt="Wallpaper" width="835">
-</div> -->
+</div>
 
 <br>
 
