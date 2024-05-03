@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://github.com/YASH-TRONX">
-    <img src="https://skillicons.dev/icons?i=js,html,css,androidstudio,figma,git,github,java,mysql,nodejs,postman,react,stackoverflow,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,react,androidstudio,nodejs,figma,git,github,java,mysql,postman,stackoverflow,vscode" />
   </a>
 </div>
 
